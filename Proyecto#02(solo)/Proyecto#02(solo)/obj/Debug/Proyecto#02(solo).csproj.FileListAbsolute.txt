@@ -1,0 +1,7 @@
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Proyecto#02(solo)\Proyecto#02(solo)\bin\Debug\Proyecto#02(solo).exe.config
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Proyecto#02(solo)\Proyecto#02(solo)\bin\Debug\Proyecto#02(solo).exe
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Proyecto#02(solo)\Proyecto#02(solo)\bin\Debug\Proyecto#02(solo).pdb
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Proyecto#02(solo)\Proyecto#02(solo)\obj\Debug\Proyecto#02(solo).csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Proyecto#02(solo)\Proyecto#02(solo)\obj\Debug\Proyecto#02(solo).csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Proyecto#02(solo)\Proyecto#02(solo)\obj\Debug\Proyecto#02(solo).exe
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Proyecto#02(solo)\Proyecto#02(solo)\obj\Debug\Proyecto#02(solo).pdb

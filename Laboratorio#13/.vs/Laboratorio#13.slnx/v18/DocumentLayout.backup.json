@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\Laboratorios de computaci\u00F3n\\Laboratorio#13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40996B1B-DE5E-473A-BB98-04F2B15A6151}|Laboratorio#13\\Laboratorio#13.csproj|c:\\users\\esteb\\onedrive\\desktop\\laboratorios de computaci\u00F3n\\laboratorio#13\\laboratorio#13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40996B1B-DE5E-473A-BB98-04F2B15A6151}|Laboratorio#13\\Laboratorio#13.csproj|solutionrelative:laboratorio#13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Desktop\\Laboratorios de computaci\u00F3n\\Laboratorio#13\\Laboratorio#13\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio#13\\Program.cs",
+              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Desktop\\Laboratorios de computaci\u00F3n\\Laboratorio#13\\Laboratorio#13\\Program.cs*",
+              "RelativeToolTip": "Laboratorio#13\\Program.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:53:16.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

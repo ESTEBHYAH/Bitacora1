@@ -1,0 +1,7 @@
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\proyecto0.1 Equipos\proyecto0.1 Equipos\bin\Debug\proyecto0.1 Equipos.exe.config
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\proyecto0.1 Equipos\proyecto0.1 Equipos\bin\Debug\proyecto0.1 Equipos.exe
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\proyecto0.1 Equipos\proyecto0.1 Equipos\bin\Debug\proyecto0.1 Equipos.pdb
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\proyecto0.1 Equipos\proyecto0.1 Equipos\obj\Debug\proyecto0.1 Equipos.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\proyecto0.1 Equipos\proyecto0.1 Equipos\obj\Debug\proyecto0.1 Equipos.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\proyecto0.1 Equipos\proyecto0.1 Equipos\obj\Debug\proyecto0.1 Equipos.exe
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\proyecto0.1 Equipos\proyecto0.1 Equipos\obj\Debug\proyecto0.1 Equipos.pdb

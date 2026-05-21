@@ -1,0 +1,7 @@
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Laboratorio#7\Laboratorio#7\bin\Debug\Laboratorio#7.exe.config
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Laboratorio#7\Laboratorio#7\bin\Debug\Laboratorio#7.exe
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Laboratorio#7\Laboratorio#7\bin\Debug\Laboratorio#7.pdb
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Laboratorio#7\Laboratorio#7\obj\Debug\Laboratorio#7.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Laboratorio#7\Laboratorio#7\obj\Debug\Laboratorio#7.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Laboratorio#7\Laboratorio#7\obj\Debug\Laboratorio#7.exe
+C:\Users\esteb\OneDrive\Desktop\Laboratorios de computación\Laboratorio#7\Laboratorio#7\obj\Debug\Laboratorio#7.pdb
